@@ -1,0 +1,23 @@
+position_id,position_name,position_abrev,unit
+0,Wide Receiver,WR,Offense
+1,Defensive End,DE,Defense
+2,Cornerback,CB,Defense
+3,Running Back,RB,Offense
+4,Safety,S,Defense
+5,Tight End,TE,Offense
+6,Defensive Tackle,DT,Defense
+7,Offensive Tackle,OT,Offense
+8,Offensive Guard,OG,Offense
+9,Outside Linebacker,OLB,Defense
+10,Center,C,Offense
+11,Quarterback,QB,Offense
+12,Inside Linebacker,ILB,Defense
+13,Fullback,FB,Offense
+14,Punter,P,Special Teams
+15,Kicker,K,Special Teams
+16,Long Snapper,LS,Special Teams
+17,Defensive Line,DL,Defense
+18,Edge Rusher,EDGE,Defense
+19,Linebacker,LB,Defense
+20,Defensive Back,DB,Defense
+21,Offensive Line,OL,Offense
